@@ -1,5 +1,5 @@
 <h1>Project Title</h1>
-    <img src="https://link-to-your-logo.com/logo.png" alt="Project Logo" style="width:200px;">
+    <img src="https://soos.io/wp-content/uploads/2022/10/zap-logo.png" alt="Project Logo" style="width:200px;">
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#introduction">Introduction</a></li>
